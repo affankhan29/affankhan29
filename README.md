@@ -19,5 +19,4 @@ Still balancing both, but either way: **building things that feel alive**.
 ### Find Me
 
 - **Portfolio:** [affanity.me](https://affanity.me)
-- **GitHub:** [github.com/affankhan29](https://github.com/affankhan29)
 - **LinkedIn:** [linkedin.com/in/affan-khan-2a2a123ab](https://linkedin.com/in/affan-khan-2a2a123ab)
