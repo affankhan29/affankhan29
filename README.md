@@ -1,16 +1,23 @@
-## Hi there 👋
+# Affan Khan
 
-<!--
-**affankhan29/affankhan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building odd things—odd enough to stand out, but useful enough to earn their keep.
 
-Here are some ideas to get you started:
+Most software today feels manufactured: slap an AI badge on a prompt wrapper, generate a landing page, and ship another tool nobody actually needed. I'd rather chase the projects that make people pause and say, "Wait, this is actually good."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+Small ideas. Peculiar mechanics. Things that eliminate a quiet frustration or do a single job exceptionally well.
+
+I don't care about turning every repository into a startup, and I don't need everything to be an API relay. I just want to understand computing deeply enough to build without training wheels.
+
+Half my work is practical; the other half exists purely because a bizarre question wouldn't let me sleep.
+
+Still balancing both, but either way: **building things that feel alive**.
+
+---
+
+### Find Me
+
+- **Portfolio:** [affanity.me](https://affanity.me)
+- **GitHub:** [github.com/affankhan29](https://github.com/affankhan29)
+- **LinkedIn:** [linkedin.com/in/affan-khan-2a2a123ab](https://linkedin.com/in/affan-khan-2a2a123ab)
